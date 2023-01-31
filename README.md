@@ -1,1 +1,2 @@
-# algorithm
+# JAVA 알고리즘 강의 정리노트
+## 2023.01.31 Github 생성
